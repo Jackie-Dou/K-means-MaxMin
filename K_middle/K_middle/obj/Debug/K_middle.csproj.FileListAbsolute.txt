@@ -1,0 +1,10 @@
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\K_middle\bin\Debug\K_middle.exe.config
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\K_middle\bin\Debug\K_middle.exe
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\K_middle\bin\Debug\K_middle.pdb
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\K_middle\obj\Debug\K_middle.csprojAssemblyReference.cache
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\K_middle\obj\Debug\K_middle.Form1.resources
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\K_middle\obj\Debug\K_middle.Properties.Resources.resources
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\K_middle\obj\Debug\K_middle.csproj.GenerateResource.cache
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\K_middle\obj\Debug\K_middle.csproj.CoreCompileInputs.cache
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\K_middle\obj\Debug\K_middle.exe
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\K_middle\obj\Debug\K_middle.pdb

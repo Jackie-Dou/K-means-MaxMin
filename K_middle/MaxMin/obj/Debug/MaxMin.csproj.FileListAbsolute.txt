@@ -1,0 +1,10 @@
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\MaxMin\obj\Debug\MaxMin.csprojAssemblyReference.cache
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\MaxMin\obj\Debug\MaxMin.Properties.Resources.resources
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\MaxMin\obj\Debug\MaxMin.csproj.GenerateResource.cache
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\MaxMin\obj\Debug\MaxMin.csproj.CoreCompileInputs.cache
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\MaxMin\bin\Debug\MaxMin.exe.config
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\MaxMin\bin\Debug\MaxMin.exe
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\MaxMin\bin\Debug\MaxMin.pdb
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\MaxMin\obj\Debug\MaxMin.Form1.resources
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\MaxMin\obj\Debug\MaxMin.exe
+F:\Курс_3_Семестр_2\МиАПР\Lab_1\K_middle\MaxMin\obj\Debug\MaxMin.pdb
